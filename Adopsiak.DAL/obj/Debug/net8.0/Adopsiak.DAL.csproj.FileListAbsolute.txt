@@ -1,0 +1,14 @@
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\bin\Debug\net8.0\Adopsiak.DAL.deps.json
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\bin\Debug\net8.0\Adopsiak.DAL.runtimeconfig.json
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\bin\Debug\net8.0\Adopsiak.DAL.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\bin\Debug\net8.0\Adopsiak.DAL.pdb
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\Adopsiak.DAL.csproj.AssemblyReference.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\Adopsiak.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\Adopsiak.DAL.AssemblyInfoInputs.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\Adopsiak.DAL.AssemblyInfo.cs
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\Adopsiak.DAL.csproj.CoreCompileInputs.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\Adopsiak.DAL.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\refint\Adopsiak.DAL.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\Adopsiak.DAL.pdb
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\Adopsiak.DAL.genruntimeconfig.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.DAL\obj\Debug\net8.0\ref\Adopsiak.DAL.dll

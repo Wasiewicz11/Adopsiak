@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Adopsiak.API.props" />
+</Project>

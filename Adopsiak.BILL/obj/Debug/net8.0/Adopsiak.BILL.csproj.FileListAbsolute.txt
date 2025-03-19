@@ -1,0 +1,15 @@
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\bin\Debug\net8.0\Adopsiak.BILL.deps.json
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\bin\Debug\net8.0\Adopsiak.BILL.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\bin\Debug\net8.0\Adopsiak.BILL.pdb
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\bin\Debug\net8.0\Adopsiak.DAL.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\bin\Debug\net8.0\Adopsiak.DAL.pdb
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\Adopsiak.BILL.csproj.AssemblyReference.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\Adopsiak.BILL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\Adopsiak.BILL.AssemblyInfoInputs.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\Adopsiak.BILL.AssemblyInfo.cs
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\Adopsiak.BILL.csproj.CoreCompileInputs.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\Adopsiak.E1D6B7ED.Up2Date
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\Adopsiak.BILL.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\refint\Adopsiak.BILL.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\Adopsiak.BILL.pdb
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.BILL\obj\Debug\net8.0\ref\Adopsiak.BILL.dll

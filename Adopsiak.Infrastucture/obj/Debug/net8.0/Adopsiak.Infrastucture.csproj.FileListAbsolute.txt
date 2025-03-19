@@ -1,0 +1,17 @@
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\bin\Debug\net8.0\Adopsiak.Infrastucture.deps.json
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\bin\Debug\net8.0\Adopsiak.Infrastucture.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\bin\Debug\net8.0\Adopsiak.Infrastucture.pdb
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\bin\Debug\net8.0\Adopsiak.BILL.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\bin\Debug\net8.0\Adopsiak.DAL.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\bin\Debug\net8.0\Adopsiak.BILL.pdb
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\bin\Debug\net8.0\Adopsiak.DAL.pdb
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\Adopsiak.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\Adopsiak.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\Adopsiak.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\Adopsiak.Infrastucture.AssemblyInfo.cs
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\Adopsiak.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\Adopsiak.30355FF2.Up2Date
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\Adopsiak.Infrastucture.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\refint\Adopsiak.Infrastucture.dll
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\Adopsiak.Infrastucture.pdb
+C:\Users\filip\RiderProjects\Adopsiak\Adopsiak.Infrastucture\obj\Debug\net8.0\ref\Adopsiak.Infrastucture.dll
