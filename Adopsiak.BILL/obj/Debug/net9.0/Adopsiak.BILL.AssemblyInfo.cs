@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adopsiak.BILL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4b3c148079cef15b970bc9fdcdb2de095425cdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adopsiak.BILL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adopsiak.BILL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
