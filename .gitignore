@@ -75,6 +75,7 @@ StyleCopReport.xml
 *.ilk
 *.meta
 *.obj
+**/*.obj
 *.iobj
 *.pch
 *.pdb
@@ -398,3 +399,48 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# EF Core migrations
+Migrations/*Designer.cs
+Migrations/*Snapshot.cs
+
+# Rider specific files
+.idea/
+.vscode/
+
+# Build and artifacts
+bin/
+obj/
+artifacts/
+
+# NuGet packages and restore files
+packages/
+*.nupkg
+*.snupkg
+
+# C# output and debug files
+*.dll
+*.exe
+*.pdb
+*.obj
+*.iobj
+*.ilk
+*.log
+*.tlog
+
+# Cache files
+*.cache
+*.tmp
+*.tmp_proj
+
+# EF Core model snapshot
+AdopsiakDbContextModelSnapshot.cs
+
+# Rider & Visual Studio user-specific files
+.vs/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
